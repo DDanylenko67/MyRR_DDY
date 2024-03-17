@@ -1,0 +1,7 @@
+img{
+    width: 400;
+    height: 400;
+}
+img.border{
+    border: 2px solid black;
+}
